@@ -5,11 +5,13 @@ Use Airtest Cross platform UI automation
 control  Android Emulator/Mobile Phone
 auto buy product, Mobile  phone/Game account recharge.
 provide web service powed by python  Flask  micro framework.
+Bulid a web site to introduct this saas based on Astro website template 
 
 ## Study
 
 1. Airtest Cross platform UI automation :  http://airtest.netease.com/
 2. Flask  micro framework:   https://github.com/pallets/flask
+3. Astro website template : https://github.com/themefisher/bigspring-light-astro
 
 ## 调试
 
