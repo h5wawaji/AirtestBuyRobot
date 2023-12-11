@@ -12,6 +12,7 @@ Bulid a web site to introduct this saas based on Astro website template
 1. Airtest Cross platform UI automation :  http://airtest.netease.com/
 2. Flask  micro framework:   https://github.com/pallets/flask
 3. Astro website template : https://github.com/themefisher/bigspring-light-astro
+4. single page template : https://github.com/Tailus-UI/astro-theme
 
 ## 调试
 
